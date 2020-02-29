@@ -1,6 +1,6 @@
 ## NextJS
 
-**Current:** [Export into a Static HTML App](https://nextjs.org/learn/excel/static-html-export/export-the-index-page)
+**Current:** [TypeScript](https://nextjs.org/learn/excel/typescript)
 
 > To run dev use: 
 `npm run dev`
@@ -19,10 +19,11 @@ If you can categorize your app as a static app, you can build it with Next.js. N
 
 > To test the exported app, install this NPM module globally:
 `npm install -g serve`
+
 > Then go to 'out' and use:
 `serve -p 8080`
 
-▲ZEIT Now is the most simple and scalable way to deploy your application to production.
+ZEIT Now is the most simple and scalable way to deploy your application to production:
 
 > `npm install -g now`
 
