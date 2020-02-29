@@ -2,22 +2,12 @@
 
 **Current:** [Export into a Static HTML App](https://nextjs.org/learn/excel/static-html-export/export-the-index-page)
 
+> To run dev: 
+`npm run dev`
 
-**BASICS**
-- Getting Started
-- Navigate Between Pages
-- Using Shared Components
-- Create Dynamic Pages
-- Clean URLs with Dynamic Routing
-- Fetching Data for Pages
-- Styling Components
-- API Routes
-- Deploying a Next.js App
+> To build: 
+`npm run build`
 
-**EXCEL**
-- Export into a Static HTML App
-- TypeScript
-- Lazy Loading Modules
-- Lazy Loading Components
-- Create AMP Pages
-- Automatic Static Optimization
+> To export HTML content on a directory called 'out' inside your project use:
+`npm run export`
+
