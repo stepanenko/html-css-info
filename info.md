@@ -1,6 +1,7 @@
 ## NextJS
 
-**Current:** https://nextjs.org/learn/basics/api-routes/middlewares
+**Current:** [Export into a Static HTML App](https://nextjs.org/learn/excel/static-html-export/export-the-index-page)
+
 
 **BASICS**
 - Getting Started
