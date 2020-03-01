@@ -1,6 +1,6 @@
 ## NextJS
 
-**Current:** [TypeScript](https://nextjs.org/learn/excel/typescript)
+[**DOCS:**](https://nextjs.org/learn/excel/typescript)
 
 > To run dev use: 
 `npm run dev`
