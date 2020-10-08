@@ -2,6 +2,8 @@
 
 [**NEXTJS LEARN DOCS**](https://nextjs.org/learn/excel/typescript)
 
+Updated all on 8.10.2020
+
 > To run dev use: 
 `npm run dev`
 
