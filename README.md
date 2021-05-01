@@ -1,8 +1,13 @@
+
 ## NextJS
 
-[**NEXTJS LEARN DOCS**](https://nextjs.org/learn/excel/typescript)
+[**NextJS Docs**](https://nextjs.org/learn/basics/create-nextjs-app)
 
-Updated all on 8.10.2020
+Updated all on 1.05.2021
+
+**Tech stack:**
+- React 17
+- NextJS 10.2
 
 > To run dev use: 
 `npm run dev`
