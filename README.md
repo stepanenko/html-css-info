@@ -1,8 +1,10 @@
 
 ## C# Notes
 
-Created by _ in _.
+C# was designed by **Anders Hejlsberg** from Microsoft in **2000**.
 
-C# is a modern, object-oriented, and type-safe programming language.
+As of 2021, the most recent version of the language is C# 10.0, which was released in 2021 in .NET 6.0.
+
+C# is a modern general-purpose, multi-paradigm programming language. It encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines
 C# enables developers to build many types of secure and robust applications that run in .NET.
 C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.
